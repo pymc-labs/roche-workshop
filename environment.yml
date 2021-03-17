@@ -1,0 +1,27 @@
+name: bayes_workshop
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - arviz
+  - cython
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - libblas=*=*mkl
+  - lxml
+  - matplotlib
+  - mkl-service
+  - numpy
+  - pandas
+  - patsy
+  - pip
+  - pymc3
+  - pydot
+  - python-graphviz
+  - scikit-learn
+  - scipy
+  - seaborn
+  - setuptools
+  - watermark
+  - xlrd
