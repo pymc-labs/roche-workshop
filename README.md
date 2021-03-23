@@ -16,42 +16,42 @@ The course will consist of eight 2-hour sessions spreadout across 4 days. The mo
 ## Course outline:
 
 1. Get-to-know session
-  1. What is your motivation to attend this course?
-  2. What type of problems would you like to solve?
+   1. What is your motivation to attend this course?
+   2. What type of problems would you like to solve?
 2. Introduction to Bayesian modeling and PyMC3
-  1. What is a Bayesian statistical model?
-  2. Learning from data by updating beliefs (Prior & Posterior)
-  3. A high-level introduction to the PyMC3 API
-  4. Motivating examples
+   1. What is a Bayesian statistical model?
+   2. Learning from data by updating beliefs (Prior & Posterior)
+   3. A high-level introduction to the PyMC3 API
+   4. Motivating examples
 3. Regressions and Hierarchical Models 
-  1. Bayesian GLMs in PyMC3
-  2. Motivation and case studies
-  3. Partial pooling and benefits
-  4. Building hierarchical models
-  5. Parameterizations and how it helps
+   1. Bayesian GLMs in PyMC3
+   2. Motivation and case studies
+   3. Partial pooling and benefits
+   4. Building hierarchical models
+   5. Parameterizations and how it helps
 4. MCMC for Practitioners
-  1. How to get posteriors computationally
-  2. The idea behind MCMC
-  3. MCMC gotchas and diagnostics
+   1. How to get posteriors computationally
+   2. The idea behind MCMC
+   3. MCMC gotchas and diagnostics
 5. Project 1
-  1. Model a small dataset with a hierarchical model
-  2. Assess model convergence
-  3. Analyze learnt parameters
-  4. Study predictive capacity
+   1. Model a small dataset with a hierarchical model
+   2. Assess model convergence
+   3. Analyze learnt parameters
+   4. Study predictive capacity
 6. The Bayesian Workflow
-  1. Prior choice and predictive checks
-  2. Iterating models
-  3. Scaling your data
-  4. Posterior predictive checks
-  5. Using the model
-  6. Missing data imputation
-  7. Model checking and comparison
+   1. Prior choice and predictive checks
+   2. Iterating models
+   3. Scaling your data
+   4. Posterior predictive checks
+   5. Using the model
+   6. Missing data imputation
+   7. Model checking and comparison
 7. Bayesian Mixture Models 
-  1. What they are & when they are useful
-  2. Mixture models in PyMC3
-  3. Limits of mixture models
+   1. What they are & when they are useful
+   2. Mixture models in PyMC3
+   3. Limits of mixture models
 8. Project 2
-  1. Work with a dataset provided by the Roche digital biomarkers team
+   1. Work with a dataset provided by the Roche digital biomarkers team
 
 ## Setup
 
