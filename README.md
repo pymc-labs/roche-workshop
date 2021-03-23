@@ -55,7 +55,9 @@ The course will consist of eight 2-hour sessions spreadout across 4 days. The mo
 
 ## Setup
 
-The main working environment for the course will be Roche's HPC cluster. However, you will also be able to setup a local environment where you will be able to run the course's material. To do this, you will need to first install [Anaconda](https://www.anaconda.com/products/individual#download-section) (Python 3.8) on your system.
+**The main working environment for the course will be Roche's HPC cluster.** All the required software packages will be installed there.
+
+However, if you are interested in having a local setup to run the course's material, you also can. To do this, you will need to first install [Anaconda](https://www.anaconda.com/products/individual#download-section) (Python 3.8) on your system.
 
 The next step is to clone or download the tutorial materials in this repository. If you are familiar with Git, run the clone command:
 
